@@ -1,0 +1,233 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+body {
+    font-family: Arial;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color:aliceblue;
+}
+
+#navigation ul {
+    text-align: center;
+    font-size: 48px;
+    margin: 30px;
+    padding: 3%;
+    background-color: #9ac1fe;
+}
+#navigation li {
+    display: inline-block;
+    position: relative;
+    margin-right: 50px;
+}
+
+#navigation a:hover {
+    color: rgb(80, 132, 180);
+}
+
+#home {
+    margin: 50px 30px;
+    background-image: url("aboutbg.jpg");
+    padding: 50px;
+}
+
+#home img {
+    width: 500px;
+    height: 500px;
+    margin-left: 750px;
+}
+
+#home h2 {
+    position: absolute;
+    top: 350px;
+    left: 150px;
+    text-align: left;
+    font-size: 40px;
+    color: rgb(47, 116, 180);
+}
+
+#home p {
+    position: absolute;
+    top: 450px;
+    left: 200px;
+    text-align: left;
+    font-size: 24px;
+    color: rgb(80, 132, 180);
+}
+
+.education {
+    margin: 50px 30px;
+    background-color: #9ac1fe;
+    padding: 350px;
+}
+
+.education h2 {
+    position: absolute;
+    top: 900px;
+    left: 41.5%;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(4, 4, 75);
+}
+
+#dav {
+    position: absolute;
+    top: 1030px;
+    left: 300px;
+}
+
+#pes {
+    position: absolute;
+    top: 1200px;
+    left: 800px;
+}
+
+.text p {
+    font-size: 24px;
+    color: rgb(4, 4, 75);
+}
+
+#davt {
+    position: absolute;
+    top: 1050px;
+    left: 750px;
+}
+
+#pest {
+    position: absolute;
+    top: 1350px;
+    left: 300px;
+}
+
+#content {
+    opacity: 1;
+}
+
+.sports {
+    margin: 50px 30px;
+    background-image: url("sportsbg.png");
+    padding: 300px;
+}
+
+.sports img {
+    position: absolute;
+    top: 1675px;
+    left: 200px;
+}
+
+.sports h2 {
+    position: absolute;
+    top: 1700px;
+    right: 200px;
+    font-size: 40px;
+    color: silver;
+}
+
+.sports p {
+    position: absolute;
+    top: 1850px;
+    left: 900px;
+    text-align: right;
+    color: silver;
+    font-size: 24px;
+}
+
+.social {
+    margin: 50px 30px;
+    padding: 300px;
+    background-color: #ffd6fe;
+}
+
+.social h2 {
+    position: absolute;
+    top: 2350px;
+    left: 650px;
+    font-size: 40px;
+    color: rgb(184, 55, 152);
+}
+
+.social h3 {
+    position: absolute;
+    top: 2425px;
+    left: 625px;
+    font-size: 24px;
+    color:rgb(107, 24, 87);
+}
+
+#insta {
+    position: absolute;
+    top: 2550px;
+    left: 500px;
+}
+
+#fb {
+    position: absolute;
+    top: 2550px;
+    left: 600px;
+}
+
+#li {
+    position: absolute;
+    top: 2550px;
+    left: 770px;
+}
+
+#tw {
+    position: absolute;
+    top: 2550px;
+    left: 920px;
+}
+
+#top a {
+    position: absolute;
+    top: 2800px;
+    right: 150px;
+    color: rgb(184, 55, 152);
+    font-size: 22px;
+}
+
+/*
+.images {
+    float: left;
+    width: 475px;
+    height: 300px;
+    padding: 5px;
+  }
+
+  .education::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+*/
+
+/*
+#dav img{
+    padding: 50px 25px;
+    width: 475px;
+    height: 300px;
+    margin-right: 680px;
+}
+
+#dav p{
+    font-size: 24px;
+}
+
+#pes img{
+    position: absolute;
+    left: 800px;
+    top: 930px;
+    padding: 50px 25px;
+    width: 475px;
+    height: 300px;
+    margin-right: 280px;
+}
+
+#pes p{
+    font-size: 24px;
+}
+*/
